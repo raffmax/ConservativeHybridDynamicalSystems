@@ -1,0 +1,2 @@
+# ContinuationOfPeriodicOrbitsInConservativeHybridDynamicalSystems
+Implementation of the four mechanical examples in Matlab/Octave and Julia
